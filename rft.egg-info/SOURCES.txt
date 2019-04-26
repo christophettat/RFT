@@ -4,4 +4,5 @@ setup.py
 rft.egg-info/PKG-INFO
 rft.egg-info/SOURCES.txt
 rft.egg-info/dependency_links.txt
+rft.egg-info/requires.txt
 rft.egg-info/top_level.txt
