@@ -12,6 +12,10 @@ setuptools.setup(
    long_description_content_type="text/markdown",
      url="https://github.com/christophettat/RFT",
      packages=setuptools.find_packages(),
+     install_requires=[
+          'robotframework=3.1.1',
+          'robotframework-ride=1.7.3.1',
+      ],
      classifiers=[
          "Programming Language :: Python :: 2",
          "License :: OSI Approved :: MIT License",
