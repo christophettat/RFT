@@ -14,7 +14,7 @@ setuptools.setup(
      packages=setuptools.find_packages(),
      install_requires=[
           'robotframework==3.1.1',
-          'robotframework-ride==1.7.3.1',
+          'robotframework-seleniumlibrary==3.3.1',
       ],
      classifiers=[
          "Programming Language :: Python :: 2",
